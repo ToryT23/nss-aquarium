@@ -1,0 +1,32 @@
+.content {
+    display: flex;
+flex-wrap: wrap;
+}
+.content__location-list {
+    flex-basis: 40%;
+    border: 20px solid indigo;
+    padding: .5em;
+    margin: 1em;
+}
+.content__quote-list {
+    flex-basis: 40%;
+    border: 10px solid  hotpink;
+    padding: .5em;
+    margin: 1em;
+}
+.content__fish-list {
+    flex-basis: 40%;
+border: 20px solid grey;
+padding: .5em;
+margin: 1em;
+}
+.content__tank-tips {
+    flex-basis: 40%;
+border: 20px solid tan;
+padding: .5em;
+margin: 1em;
+}
+.Header {
+    text-align: center;
+}
+
